@@ -69,7 +69,8 @@ plt.axis("off")
 <br>
 <br>
 
-<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/84293caf-af38-416e-ada2-5dc15da78731" />
+<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/62c5daf8-90a0-4cb2-9df0-af56d2f47933" />
+
 
 
 <br>
