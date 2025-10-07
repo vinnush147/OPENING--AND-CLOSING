@@ -59,9 +59,7 @@ plt.axis("off")
 
 ## Output:
 
-### Display the input Image
 
-<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/c442b742-2132-4884-bc35-d6f55efa210c" />
 
 
 ### Display the result of Opening
